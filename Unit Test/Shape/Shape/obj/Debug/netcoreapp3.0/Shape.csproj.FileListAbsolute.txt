@@ -1,0 +1,8 @@
+C:\Users\teebo\Desktop\Unit Test\Shape\Shape\bin\Debug\netcoreapp3.0\Shape.deps.json
+C:\Users\teebo\Desktop\Unit Test\Shape\Shape\bin\Debug\netcoreapp3.0\Shape.dll
+C:\Users\teebo\Desktop\Unit Test\Shape\Shape\bin\Debug\netcoreapp3.0\Shape.pdb
+C:\Users\teebo\Desktop\Unit Test\Shape\Shape\obj\Debug\netcoreapp3.0\Shape.AssemblyInfoInputs.cache
+C:\Users\teebo\Desktop\Unit Test\Shape\Shape\obj\Debug\netcoreapp3.0\Shape.AssemblyInfo.cs
+C:\Users\teebo\Desktop\Unit Test\Shape\Shape\obj\Debug\netcoreapp3.0\Shape.dll
+C:\Users\teebo\Desktop\Unit Test\Shape\Shape\obj\Debug\netcoreapp3.0\Shape.pdb
+C:\Users\teebo\Desktop\Unit Test\Shape\Shape\obj\Debug\netcoreapp3.0\Shape.csprojAssemblyReference.cache
