@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\teebo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\teebo\\.nuget\\packages"
+    ]
+  }
+}

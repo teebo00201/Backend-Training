@@ -1,0 +1,11 @@
+C:\Users\teebo\Desktop\webapplication\Repository\bin\Debug\netcoreapp3.0\Repository.deps.json
+C:\Users\teebo\Desktop\webapplication\Repository\bin\Debug\netcoreapp3.0\Repository.dll
+C:\Users\teebo\Desktop\webapplication\Repository\bin\Debug\netcoreapp3.0\Repository.pdb
+C:\Users\teebo\Desktop\webapplication\Repository\bin\Debug\netcoreapp3.0\Database.dll
+C:\Users\teebo\Desktop\webapplication\Repository\bin\Debug\netcoreapp3.0\Database.pdb
+C:\Users\teebo\Desktop\webapplication\Repository\obj\Debug\netcoreapp3.0\Repository.csprojAssemblyReference.cache
+C:\Users\teebo\Desktop\webapplication\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfoInputs.cache
+C:\Users\teebo\Desktop\webapplication\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfo.cs
+C:\Users\teebo\Desktop\webapplication\Repository\obj\Debug\netcoreapp3.0\Repository.csproj.CopyComplete
+C:\Users\teebo\Desktop\webapplication\Repository\obj\Debug\netcoreapp3.0\Repository.dll
+C:\Users\teebo\Desktop\webapplication\Repository\obj\Debug\netcoreapp3.0\Repository.pdb
